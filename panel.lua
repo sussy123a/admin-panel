@@ -1,6 +1,6 @@
 local allowedUsers = {
-	["noneilike"] = true,
-	["3d3x3d3x"] = true
+	["admin1"] = true,
+	["admin2"] = true
 }
 
 local player = game.Players.LocalPlayer
